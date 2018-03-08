@@ -61,4 +61,3 @@ Source bashrc file.
 ## Step 6 - Install TensorFlow.
 
 `pip3 install tensorflow-gpu`
-`
